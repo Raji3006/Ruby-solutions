@@ -13,4 +13,4 @@ x = gets.chomp.to_i
 y = gets.chomp.to_i 
 z = gets.chomp.to_i 
 
-greatest(x, y, z)
+greatest(x, y, z)30
